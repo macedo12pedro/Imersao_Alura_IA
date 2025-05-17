@@ -10,9 +10,8 @@ Você já se sentiu perdido diante de um rótulo de alimento, bombardeado por um
 
 ## IngredientIA: Seu Superpoder para Decifrar Rótulos 🦸‍♀️🔍
 
-Imagine ter a capacidade de, com um simples clique, desvendar os segredos de cada ingrediente, compreendendo não apenas o que eles são, mas também seu impacto na sua saúde ❤️. IngredientIA torna isso realidade ✨. Este projeto inovador combina a precisão da inteligência artificial do Gemini 🧠 com a praticidade de uma interface web intuitiva 🌐, oferecendo uma experiência transformadora 🌟 na forma como você interage com os rótulos de alimentos.
-
-O funcionamento é simples. Com a interface amigável, você captura uma imagem 📸 do rótulo, permitindo que a magia aconteça. Nos bastidores, o código Python orquestra um processo complexo, onde o Gemini 🤖, o modelo de linguagem avançado do Google, entra em cena. Gemini não se limita a listar os ingredientes; ele os disseca 🔬, explicando suas funções, origens e até mesmo avaliando sua saudabilidade com base em evidências científicas 📚. O resultado é uma análise completa, apresentada de forma clara e objetiva, eliminando a ambiguidade e capacitando você a tomar decisões mais informadas 💡.
+Imagine ter a capacidade de, com um simples clique, desvendar os segredos de cada ingrediente, compreendendo não apenas o que eles são, mas também seu impacto na sua saúde ❤️. IngredientIA torna isso realidade ✨.
+O funcionamento é simples. Com a interface amigável, você insere uma imagem do rótulo, permitindo que a magia aconteça. Nos bastidores, o código Python orquestra um processo complexo, onde o Gemini 🤖, o modelo de linguagem avançado do Google, entra em cena. Gemini não se limita a listar os ingredientes; ele os disseca 🔬, explicando suas funções, origens e até mesmo avaliando sua saudabilidade com base em evidências científicas 📚. O resultado é uma análise completa, apresentada de forma clara e objetiva, eliminando a ambiguidade e capacitando você a tomar decisões mais informadas 💡.
 
 ## Gemini: A Inteligência que Transforma Informação em Conhecimento 🌟
 
