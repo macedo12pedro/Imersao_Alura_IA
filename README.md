@@ -1,6 +1,8 @@
 # IngredientIA: Desvendando o Código Secreto dos Alimentos com Gemini 🕵️‍♀️✨
 
-[![Imagem do Logo do IngredientIA](static/images/logo.png)](URL_PARA_A_IMAGEM_GRANDE_SE_TIVER)
+<div align = "center">
+<img src="Gemini_Generated_Image_l1capnl1capnl1ca.png" width="500">
+</div>
 
 ## A Jornada para uma Alimentação Clara Começa Aqui 🚀
 
@@ -33,7 +35,7 @@ Para começar a análise 🧐, você precisa fornecer ao IngredientIA a imagem �
 
    * **Upload do seu computador 💻:** Clique no botão "Procurar Imagem" (ou similar) na interface. Uma janela do seu sistema operacional será aberta 📂, permitindo que você navegue pelos seus arquivos 📁 e selecione a imagem 🖼️ do rótulo. Certifique-se ✅ de que a imagem esteja em um formato comum (como JPG, PNG ou JPEG) para garantir a compatibilidade 🤝.
 
-   * **Usando as imagens de exemplo (opcional):** Para facilitar o teste 🧪 e a exploração 🔭 do IngredientIA, fornecemos algumas imagens 📸 de rótulos de exemplo. Você pode baixá-las ⬇️ diretamente do nosso repositório no GitHub ( [LINK PARA A PASTA DE IMAGENS AQUI] 👈 **IMPORTANTE:** Você precisa adicionar o link correto para a pasta das imagens no seu repositório!) e salvá-las 💾 no seu computador 💻. Em seguida, siga o passo de "Upload do seu computador 💻" para selecionar uma dessas imagens 🖼️.
+   * **Usando as imagens de exemplo (opcional):** Para facilitar o teste 🧪 e a exploração 🔭 do IngredientIA, fornecemos algumas imagens 📸 de rótulos de exemplo. Você pode baixá-las ⬇️ diretamente do nosso repositório no Google Drive (https://drive.google.com/drive/folders/1JDOggXkU0W-HHsgLkr62-lNKHKx9JHcj?hl=pt-br) e salvá-las no seu computador 💻. Em seguida, siga o passo de "Upload do seu computador 💻" para selecionar uma dessas imagens 🖼️.
 
     **Dica importante 💡:** Quanto mais nítida ✨ e clara 👓 for a imagem 📸 do rótulo, melhor 👍 será a precisão 🎯 da análise.
 
@@ -74,11 +76,11 @@ Após a conclusão ✅ da análise, o IngredientIA apresenta uma visão completa
 
    * **Estrutura da Análise 🗂️:**
 
-        1.  **Ingredientes Visíveis 👀:** Uma lista 📝 dos ingredientes 🌿 identificados 👀 na imagem 📸 do rótulo 🏷️. (Pode incluir uma tradução livre 🗣️, se necessário).
-        2.  **Descrição de Cada Ingrediente 📝🔍:** Uma explicação detalhada 🔎 sobre o que é cada ingrediente 🌿, sua função ⚙️ no alimento 🍎 e outras informações relevantes ℹ️.
-        3.  **Classificação de Saudabilidade 💚❤️⚖️:** Uma avaliação ⚖️ de cada ingrediente 🌿, indicando se é geralmente considerado saudável 💚, não saudável ❤️ ou neutro/dependente da quantidade ❓.
-        4.  **Justificativa para a Classificação de Saudabilidade 📝❓:** Uma explicação 📝 dos critérios ❓ utilizados para classificar ⚖️ a saudabilidade 💚❤️ de cada ingrediente 🌿.
-        5.  **Resumo Geral 📝📊:** Uma conclusão 📝 sobre a avaliação nutricional 📊 geral do produto 🍎, com base nos ingredientes 🌿 analisados 🧐.
+        1.  **Ingredientes Visíveis 👀:** Uma lista dos ingredientes identificados na imagem do rótulo . (Pode incluir uma tradução livre, se necessário).
+        2.  **Descrição de Cada Ingrediente 📝🔍:** Uma explicação detalhada sobre o que é cada ingrediente, sua função no alimento e outras informações relevantes .
+        3.  **Classificação de Saudabilidade 💚❤️⚖️:** Uma avaliação de cada ingrediente, indicando se é geralmente considerado saudável, não saudável ou neutro/dependente da quantidade.
+        4.  **Justificativa para a Classificação de Saudabilidade 📝❓:** Uma explicação dos critérios utilizados para classificar a saudabilidade de cada ingrediente.
+        5.  **Resumo Geral 📝📊:** Uma conclusão sobre a avaliação nutricional geral do produto, com base nos ingredientes analisados.
 
    * **Exemplo de Resultado 📝📊🍎:**
 
@@ -143,10 +145,10 @@ Após a conclusão ✅ da análise, o IngredientIA apresenta uma visão completa
 
    * **Como usar a análise 🧐💡:**
 
-        * Leia atentamente 👀 cada seção 📚 para compreender 🧠 a composição 🧪 do alimento 🍎.
-        * Preste atenção ⚠️ às classificações de saudabilidade 💚❤️⚖️ e suas justificativas 📝❓ para tomar decisões ⚖️ mais informadas 💡.
+        * Leia atentamente cada seção para compreender a composição do alimento 🍎.
+        * Preste atenção às classificações de saudabilidade e suas justificativas para tomar decisões mais informadas 💡.
 
    * **Limitações ⚠️:**
 
-        * A precisão 🎯 da análise 🧐 depende da qualidade 💯 da imagem 📸 fornecida 📤.
-        * A análise 🧐 fornece uma visão geral 🌎 e não substitui 🚫 a orientação 🧑‍🏫 de um profissional de saúde 🧑‍⚕️ ou nutricionista 🍎.
+        * A precisão da análise depende da qualidade da imagem fornecida 📤.
+        * A análise fornece uma visão geral e não substitui a orientação de um profissional de saúde ou nutricionista 🍎.
