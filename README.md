@@ -22,6 +22,7 @@ O coração ❤️ do IngredientIA é o Gemini 🤖. Essa poderosa IA é capaz d
 
 IngredientIA não é apenas um projeto tecnológico 💻; é um catalisador 🚀 para uma mudança positiva na vida das pessoas. Ao fornecer clareza 💡 e conhecimento 🧠, ele empodera os consumidores 💪 a assumirem o controle de sua alimentação 🥗, promovendo escolhas mais saudáveis, reduzindo a exposição a ingredientes prejudiciais e incentivando a transparência na indústria alimentícia. Acreditamos que IngredientIA tem o potencial de transformar a forma como o mundo se relaciona com a comida 🍎, construindo um futuro 🔮 onde a informação é acessível a todos e a saúde é prioridade.
 
+# Link Para Acessar o Código pelo Google Colab ⬇️⬇️⬇️⬇️⬇️⬇️
 [(https://github.com/macedo12pedro/Imersao_Alura_IA/blob/main/Imers%C3%A3o_IA_Gemini.ipynb)] 🔗
 
 # IngredientIA: Guia do Usuário para Análise de Rótulos
