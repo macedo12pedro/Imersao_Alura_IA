@@ -28,7 +28,7 @@ Bem-vindo ao IngredientIA! Este guia passo a passo irá te ajudar a usar a ferra
 Para começar a análise, você precisa fornecer ao IngredientIA a imagem do rótulo do alimento que deseja investigar. Existem duas formas principais de fazer isso:
 
 <div align = "center">
-<img src="anexar" width="500">
+<img src="anexar.png" width="500">
 </div>
 
    * **Upload do seu computador:** Clique no botão "Procurar Imagem" (ou similar) na interface. Uma janela do seu sistema operacional será aberta, permitindo que você navegue pelos seus arquivos e selecione a imagem do rótulo. Certifique-se de que a imagem esteja em um formato comum (como JPG, PNG ou JPEG) para garantir a compatibilidade.
@@ -42,7 +42,7 @@ Para começar a análise, você precisa fornecer ao IngredientIA a imagem do ró
 Após selecionar e enviar a imagem do rótulo, o IngredientIA inicia o processo de análise.
 
 <div align = "center">
-<img src="concluido"width="500">
+<img src="concluido.png"width="500">
 </div>
 
    * **Confirmação de Carregamento:** Se a imagem for carregada com sucesso, você receberá uma mensagem de confirmação na tela. Essa mensagem geralmente incluirá o nome do arquivo da imagem, indicando que o sistema a reconheceu e está pronta para prosseguir.
@@ -58,7 +58,7 @@ Após selecionar e enviar a imagem do rótulo, o IngredientIA inicia o processo 
 Com a imagem do rótulo carregada e confirmada, o IngredientIA entra em ação para desvendar os segredos dos ingredientes.
 
 <div align = "center">
-<img src="processando" width="500">
+<img src="processando.png" width="500">
 </div>
 
    * **Processamento Automático:** A análise dos ingredientes é um processo automático que se inicia logo após a confirmação do carregamento da imagem.
