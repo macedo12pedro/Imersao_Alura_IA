@@ -10,12 +10,7 @@ Você já se sentiu perdido diante de um rótulo de alimento, bombardeado por um
 
 ## IngredientIA: Seu Superpoder para Decifrar Rótulos 🦸‍♀️🔍
 
-Imagine ter a capacidade de, com um simples clique, desvendar os segredos de cada ingrediente, compreendendo não apenas o que eles são, mas também seu impacto na sua saúde ❤️. IngredientIA torna isso realidade ✨.
-O funcionamento é simples. Com a interface amigável, você insere uma imagem do rótulo, permitindo que a magia aconteça. Nos bastidores, o código Python orquestra um processo complexo, onde o Gemini 🤖, o modelo de linguagem avançado do Google, entra em cena. Gemini não se limita a listar os ingredientes; ele os disseca 🔬, explicando suas funções, origens e até mesmo avaliando sua saudabilidade com base em evidências científicas 📚. O resultado é uma análise completa, apresentada de forma clara e objetiva, eliminando a ambiguidade e capacitando você a tomar decisões mais informadas 💡.
-
-## Gemini: A Inteligência que Transforma Informação em Conhecimento 🌟
-
-O coração ❤️ do IngredientIA é o Gemini 🤖. Essa poderosa IA é capaz de ir além da simples identificação de ingredientes 👀, mergulhando em um nível de detalhe que antes era inacessível para o consumidor comum. Gemini desvenda termos técnicos 🗝️, separando o "açúcar" das dezenas de nomes que ele pode assumir, e oferece um contexto valioso sobre o papel de cada componente no produto. Mais do que isso, Gemini avalia a saudabilidade de cada ingrediente, fornecendo justificativas claras e concisas, permitindo que você compreenda o impacto de suas escolhas 🤔.
+IngredientIA oferece a capacidade de desvendar os segredos dos rótulos de alimentos com um simples clique, revelando o impacto dos ingredientes na sua saúde ❤️.  A ferramenta utiliza a inteligência artificial do Gemini 🤖 para analisar as imagens dos rótulos,  dissecando os componentes 🔬, explicando suas funções, origens e avaliando sua saudabilidade com base em evidências científicas 📚. Gemini 🤖, o coração do IngredientIA, vai além da identificação básica (👀), detalhando termos técnicos 🗝️ (como as variações do "açúcar" 🍬) e fornecendo contexto valioso ℹ️ sobre o papel de cada ingrediente, capacitando você a tomar decisões mais informadas 🤔.  O resultado é uma análise completa e objetiva, eliminando ambiguidades e promovendo clareza.
 
 ## Impacto Real: Uma Nova Era de Alimentação Consciente 🌎
 
