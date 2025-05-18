@@ -1,7 +1,7 @@
 # IngredientIA: Desvendando o Código Secreto dos Alimentos com Gemini 🕵️‍♀️✨
 
 <div align = "center">
-<img src="Gemini_Generated_Image_l1capnl1capnl1ca.png" width="500">
+<img src="Logo Marca" width="500">
 </div>
 
 ## A Jornada para uma Alimentação Clara Começa Aqui 🚀
